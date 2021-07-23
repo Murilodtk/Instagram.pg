@@ -2,6 +2,6 @@
 
 Bem vindo! 
 
-Está é uma tentativa de recriar a página do Instagram!
+Está é uma recriação de uma página do Instagram!
 
 Foi usado HTML e CSS na programação do site.:computer_mouse:
